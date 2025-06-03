@@ -15,8 +15,8 @@ export default function Nav({ isHome = false }) {
               {isHome ? (
                 ''
               ) : (
-                <Link to="/" className="text-2xl font-abril">
-                  Your Name
+                <Link to="/" className="text-2xl font-sans">
+                  Adwaina Richardson
                 </Link>
               )}
             </div>

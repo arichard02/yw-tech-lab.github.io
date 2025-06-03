@@ -158,7 +158,7 @@ export default function CNE() {
             clear and accessible explanation of CNE's various programs, including home visits,
             developmental screenings, childcare providers and supports, and more.
           </p>
-          <img className="w-full" src="/images/cne/desktop/programs.png" alt="Programs" />
+          <img className="w-full" src="/images/cne/desktop/impact.png" alt="CNE Impact" />
         </div>
       </section>
     </>
