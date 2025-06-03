@@ -10,7 +10,7 @@ export default function Home() {
       {/* Top Banner */}
       <div className="bg-background-50">
         <div className="panel">
-          <h1 className="text-center text-pink-600 text-9xl">Adwaina Richardson</h1>
+          <h1 className="text-center text-blue-600 text-9xl">Adwaina Richardson</h1>
           <p className="body-text-large max-w-2xl mx-auto text-center">
             Some tagline (e.g., "I bridge design and code to create intuitive digital products").
           </p>
